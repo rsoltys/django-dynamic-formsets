@@ -3,7 +3,7 @@ from distutils.core import setup  # NOQA
 
 REPO_URL = 'https://github.com/dallasmorningnews/django-dynamic-formsets'
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 
 
 setup(

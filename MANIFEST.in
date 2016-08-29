@@ -1,3 +1,4 @@
 include LICENSE.txt
 include README.md
 recursive-include docs *
+recursive-include dynamic_formsets/static *
