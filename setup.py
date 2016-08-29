@@ -5,7 +5,7 @@ import os
 
 REPO_URL = 'https://github.com/dallasmorningnews/django-dynamic-formsets'
 
-VERSION = '0.0.4'
+VERSION = '0.0.6'
 
 
 def read(fname):
