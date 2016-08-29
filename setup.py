@@ -3,9 +3,11 @@ from setuptools import setup, find_packages  # NOQA
 import os
 
 
+DESCRIPTION = 'A lightweight plugin for managing Django formsets with jQuery.'
+
 REPO_URL = 'https://github.com/dallasmorningnews/django-dynamic-formsets'
 
-VERSION = '0.0.6'
+VERSION = '0.0.7'
 
 
 def read(fname):
@@ -15,7 +17,7 @@ def read(fname):
 setup(
     name='django-dynamic-formsets',
     version=VERSION,
-    description='A random test lib',
+    description=DESCRIPTION,
     long_description=read('README.md'),
     url=REPO_URL,
     download_url=REPO_URL + '/tarball/' + VERSION,
