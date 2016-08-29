@@ -1,5 +1,5 @@
 # Imports from python.  # NOQA
-from distutils.core import setup, find_packages  # NOQA
+from setuptools import setup, find_packages  # NOQA
 import os
 
 
