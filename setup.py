@@ -7,7 +7,7 @@ DESCRIPTION = 'A lightweight plugin for managing Django formsets with jQuery.'
 
 REPO_URL = 'https://github.com/dallasmorningnews/django-dynamic-formsets'
 
-VERSION = '0.0.7'
+VERSION = '0.0.8'
 
 
 def read(fname):
